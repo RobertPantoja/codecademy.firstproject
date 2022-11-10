@@ -1,0 +1,39 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+  background-color: mintcream;
+}
+
+table {
+  font-family: Poppins;
+  text-align: left;
+  border: 2px solid midnightblue;
+  margin: 15px;
+}
+
+td{
+  border-top: 1px solid midnightblue;
+  margin: 2px;
+  font-size: 13px;
+}
+
+table th {
+  font-weight: 600;
+  background-color: deepskyblue;
+  padding: 3px;
+  font-size: 13px;
+}
+
+h3 {
+  font-family: Poppins;
+  color: slateblue;
+  font-weight: bold;
+}
+
+footer {
+  margin: 25px;
+}
+
+.pro p{
+  background-color: gainsboro;
+}
